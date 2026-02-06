@@ -1,0 +1,72 @@
+2026-02-06 10:54:35,185 - INFO - __main__ - Parsed arguments: Namespace(readonly=False, toolsets=['files', 'changelists', 'shelves', 'workspaces', 'jobs', 'reviews'], allow_usage=False)
+2026-02-06 10:54:35,189 - WARNING - src.core.connection.P4Session - P4PORT not specified in MCP config; falling back to P4CONFIG file or environment variables
+2026-02-06 10:54:35,189 - WARNING - src.core.connection.P4Session - P4USER not specified in MCP config; falling back to P4CONFIG file or environment variables
+2026-02-06 10:54:35,190 - WARNING - src.core.connection.P4Session - No P4CONFIG file detected; using only current process environment for unset values
+2026-02-06 10:54:35,190 - INFO - src.core.connection.P4Session - Using P4 connection parameters: P4PORT="uegames.p4.riotgames.io:1666", P4USER="dgiannetti"
+2026-02-06 10:54:35,190 - INFO - src.server - Running in read-write mode. Write operations are enabled.
+2026-02-06 10:54:35,190 - INFO - src.server - Enabled toolsets: files, changelists, shelves, workspaces, jobs, reviews
+2026-02-06 10:54:35,211 - INFO - __main__ - Starting P4 MCP Server
+2026-02-06 10:54:35,246 - INFO - docket.worker - Starting worker 'RGAP-MXL51253GZ#89208' with the following tasks:
+2026-02-06 10:54:35,247 - INFO - docket.worker - * trace(message: str, ...)
+2026-02-06 10:54:35,247 - INFO - docket.worker - * fail(message: str, ...)
+2026-02-06 10:54:35,247 - INFO - docket.worker - * sleep(seconds: float, ...)
+2026-02-06 11:02:05,162 - INFO - __main__ - Parsed arguments: Namespace(readonly=False, toolsets=['files', 'changelists', 'shelves', 'workspaces', 'jobs', 'reviews'], allow_usage=False)
+2026-02-06 11:02:05,165 - WARNING - src.core.connection.P4Session - P4PORT not specified in MCP config; falling back to P4CONFIG file or environment variables
+2026-02-06 11:02:05,165 - WARNING - src.core.connection.P4Session - P4USER not specified in MCP config; falling back to P4CONFIG file or environment variables
+2026-02-06 11:02:05,165 - WARNING - src.core.connection.P4Session - No P4CONFIG file detected; using only current process environment for unset values
+2026-02-06 11:02:05,165 - INFO - src.core.connection.P4Session - Using P4 connection parameters: P4PORT="uegames.p4.riotgames.io:1666", P4USER="dgiannetti"
+2026-02-06 11:02:05,165 - INFO - src.server - Running in read-write mode. Write operations are enabled.
+2026-02-06 11:02:05,165 - INFO - src.server - Enabled toolsets: files, changelists, shelves, workspaces, jobs, reviews
+2026-02-06 11:02:05,187 - INFO - __main__ - Starting P4 MCP Server
+2026-02-06 11:02:05,223 - INFO - docket.worker - Starting worker 'RGAP-MXL51253GZ#110168' with the following tasks:
+2026-02-06 11:02:05,224 - INFO - docket.worker - * trace(message: str, ...)
+2026-02-06 11:02:05,224 - INFO - docket.worker - * fail(message: str, ...)
+2026-02-06 11:02:05,224 - INFO - docket.worker - * sleep(seconds: float, ...)
+2026-02-06 11:08:07,847 - INFO - __main__ - Parsed arguments: Namespace(readonly=False, toolsets=['files', 'changelists', 'shelves', 'workspaces', 'jobs', 'reviews'], allow_usage=False)
+2026-02-06 11:08:07,849 - WARNING - src.core.connection.P4Session - P4PORT not specified in MCP config; falling back to P4CONFIG file or environment variables
+2026-02-06 11:08:07,850 - WARNING - src.core.connection.P4Session - P4USER not specified in MCP config; falling back to P4CONFIG file or environment variables
+2026-02-06 11:08:07,850 - WARNING - src.core.connection.P4Session - No P4CONFIG file detected; using only current process environment for unset values
+2026-02-06 11:08:07,850 - INFO - src.core.connection.P4Session - Using P4 connection parameters: P4PORT="uegames.p4.riotgames.io:1666", P4USER="dgiannetti"
+2026-02-06 11:08:07,850 - INFO - src.server - Running in read-write mode. Write operations are enabled.
+2026-02-06 11:08:07,850 - INFO - src.server - Enabled toolsets: files, changelists, shelves, workspaces, jobs, reviews
+2026-02-06 11:08:07,871 - INFO - __main__ - Starting P4 MCP Server
+2026-02-06 11:08:07,907 - INFO - docket.worker - Starting worker 'RGAP-MXL51253GZ#40864' with the following tasks:
+2026-02-06 11:08:07,908 - INFO - docket.worker - * trace(message: str, ...)
+2026-02-06 11:08:07,908 - INFO - docket.worker - * fail(message: str, ...)
+2026-02-06 11:08:07,908 - INFO - docket.worker - * sleep(seconds: float, ...)
+2026-02-06 11:09:21,479 - INFO - __main__ - Parsed arguments: Namespace(readonly=False, toolsets=['files', 'changelists', 'shelves', 'workspaces', 'jobs', 'reviews'], allow_usage=False)
+2026-02-06 11:09:21,481 - WARNING - src.core.connection.P4Session - P4PORT not specified in MCP config; falling back to P4CONFIG file or environment variables
+2026-02-06 11:09:21,481 - WARNING - src.core.connection.P4Session - P4USER not specified in MCP config; falling back to P4CONFIG file or environment variables
+2026-02-06 11:09:21,481 - WARNING - src.core.connection.P4Session - No P4CONFIG file detected; using only current process environment for unset values
+2026-02-06 11:09:21,482 - INFO - src.core.connection.P4Session - Using P4 connection parameters: P4PORT="uegames.p4.riotgames.io:1666", P4USER="dgiannetti"
+2026-02-06 11:09:21,482 - INFO - src.server - Running in read-write mode. Write operations are enabled.
+2026-02-06 11:09:21,482 - INFO - src.server - Enabled toolsets: files, changelists, shelves, workspaces, jobs, reviews
+2026-02-06 11:09:21,502 - INFO - __main__ - Starting P4 MCP Server
+2026-02-06 11:09:21,538 - INFO - docket.worker - Starting worker 'RGAP-MXL51253GZ#57372' with the following tasks:
+2026-02-06 11:09:21,539 - INFO - docket.worker - * trace(message: str, ...)
+2026-02-06 11:09:21,539 - INFO - docket.worker - * fail(message: str, ...)
+2026-02-06 11:09:21,539 - INFO - docket.worker - * sleep(seconds: float, ...)
+2026-02-06 11:12:18,577 - INFO - src.core.connection.P4Session - Connecting to P4 server
+2026-02-06 11:12:18,610 - INFO - src.core.connection.P4Session - P4 connection status: P4 [dgiannetti@dgiannetti_RGAP-MXL51253GZ_coresdk_dev-ue5 uegames.p4.riotgames.io:1666] connected
+2026-02-06 11:12:18,717 - INFO - src.middleware.check_permission - Permission check passed for query_changelists (read on changelists)
+2026-02-06 11:12:22,808 - INFO - src.middleware.check_permission - Permission check passed for query_changelists (read on changelists)
+2026-02-06 11:12:25,597 - INFO - src.middleware.check_permission - Permission check passed for query_changelists (read on changelists)
+2026-02-06 11:12:30,365 - INFO - src.middleware.check_permission - Permission check passed for query_changelists (read on changelists)
+2026-02-06 11:12:32,651 - INFO - src.middleware.check_permission - Permission check passed for query_changelists (read on changelists)
+2026-02-06 11:12:34,647 - INFO - src.middleware.check_permission - Permission check passed for query_changelists (read on changelists)
+2026-02-06 11:12:34,699 - INFO - src.server - tool_call: {"mcp_client": "codex-mcp-client", "toolset": "changelists", "tool_name": "query_changelists", "tool_action": "list", "status": "success", "p4_version": "2024.2.2832881"}
+2026-02-06 11:12:50,646 - INFO - src.middleware.check_permission - Permission check passed for query_changelists (read on changelists)
+2026-02-06 11:12:54,372 - INFO - src.middleware.check_permission - Permission check passed for query_changelists (read on changelists)
+2026-02-06 11:12:54,445 - INFO - src.server - tool_call: {"mcp_client": "codex-mcp-client", "toolset": "changelists", "tool_name": "query_changelists", "tool_action": "list", "status": "success", "p4_version": "2024.2.2832881"}
+2026-02-06 11:29:20,624 - INFO - __main__ - Parsed arguments: Namespace(readonly=False, toolsets=['files', 'changelists', 'shelves', 'workspaces', 'jobs', 'reviews'], allow_usage=False)
+2026-02-06 11:29:20,627 - WARNING - src.core.connection.P4Session - P4PORT not specified in MCP config; falling back to P4CONFIG file or environment variables
+2026-02-06 11:29:20,627 - WARNING - src.core.connection.P4Session - P4USER not specified in MCP config; falling back to P4CONFIG file or environment variables
+2026-02-06 11:29:20,627 - WARNING - src.core.connection.P4Session - No P4CONFIG file detected; using only current process environment for unset values
+2026-02-06 11:29:20,628 - INFO - src.core.connection.P4Session - Using P4 connection parameters: P4PORT="uegames.p4.riotgames.io:1666", P4USER="dgiannetti"
+2026-02-06 11:29:20,628 - INFO - src.server - Running in read-write mode. Write operations are enabled.
+2026-02-06 11:29:20,628 - INFO - src.server - Enabled toolsets: files, changelists, shelves, workspaces, jobs, reviews
+2026-02-06 11:29:20,648 - INFO - __main__ - Starting P4 MCP Server
+2026-02-06 11:29:20,684 - INFO - docket.worker - Starting worker 'RGAP-MXL51253GZ#110364' with the following tasks:
+2026-02-06 11:29:20,685 - INFO - docket.worker - * trace(message: str, ...)
+2026-02-06 11:29:20,685 - INFO - docket.worker - * fail(message: str, ...)
+2026-02-06 11:29:20,685 - INFO - docket.worker - * sleep(seconds: float, ...)
