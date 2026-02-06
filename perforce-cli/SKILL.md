@@ -19,7 +19,7 @@ Use this skill to guide basic Perforce (p4) command-line workflows for day-to-da
    - Delete file: `p4 delete path\to\file`
 4. Review what is open: `p4 opened` and `p4 changelists`.
 5. Diff your changes: `p4 diff` (use `p4 diff -du` for unified).
-6. Submit: `p4 submit -c <changelist>`.
+6. Submit: always ask the user to submit manually, you should never submit to the p4 depot.
 
 ## Basic file operations
 
@@ -48,7 +48,6 @@ Use this skill to guide basic Perforce (p4) command-line workflows for day-to-da
 - List pending changelists: `p4 changelists`
 - Create/edit a changelist spec: `p4 change`
 - Move files to a changelist: `p4 reopen -c <changelist> path\to\file`
-- Submit a changelist: `p4 submit -c <changelist>`
 
 ## Inspect and diff
 
